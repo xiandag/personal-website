@@ -1,0 +1,25 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <link href="https://fonts.googleapis.com/css?family=Krub" rel="stylesheet">
+     <title>{{ .Title }}</title>
+     <link rel="stylesheet" href="/style/normalize.css">
+     <link rel="stylesheet" href="/style/main.css">
+</head>
+<body>
+     {{ partial "header" (dict "Kind" .Kind "Template" "List") }}
+     {{.Content}}
+     {{ range .Pages }}
+     <span ></span>
+     <a class = "thumbnail" href="{{.URL}}" style="height: 100px; background-image: url('/img/index/{{ .Params.Title }}.jpg');"> {{.Title}}  
+          
+     </a> 
+     
+
+     
+     {{ end }}
+     
+</body>
+</html>

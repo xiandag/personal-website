@@ -1,0 +1,55 @@
+---
+title: "Extincted Species"
+date: 2018-05-22T17:53:26+02:00
+tool: "D3.js"
+field: "Data visualisation"
+draft: false
+---
+<html>
+<meta charset="utf-8">
+
+<head>
+<style>     
+.node circle {
+  //display: none;
+  fill: #93a3c2;
+}
+
+.node text:not(.info) {
+  display: none;
+  font: 7px; 
+  fill: black;
+  }
+
+.node text.info {
+  font: 14px; 
+  fill: black;
+  }
+
+.node--internal text {
+  text-shadow: 0 0px 0 #fff, 0 0px 0 #fff, 0px 0 0 #fff, 0px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke-width: 1.5px;
+  stroke: #cccccc;
+}
+    
+</style>
+<script src="//d3js.org/d3.v4.min.js"></script>     
+<script language="javascript" type="text/javascript" src="/js/exTree.js"></script>
+</head>
+
+<body>
+<div class="container">
+  <article>
+<p><strong>Interaction is a reciprocal action or influence.</strong></p>
+
+<p>In the spring of 2018, I began to learn <a href="https://d3js.org">D3.js</a>. I was impressed with the power of interaction powered by D3.js. Also, I was hoping to get involved in data collection, so I wrote a script in R to collect and sanitise data from the <a href="http://apiv3.iucnredlist.org">IUCN Red List website</a>. The tree diagram shows all the extinct species recorded on the IUCN Red List, from Kingdom, phylum, class, order, family, genus to species. If mouse hovers on the node, its binomial nomenclature will be shown.</p>
+
+    </article>
+</div> 
+</body>
+
+</html>

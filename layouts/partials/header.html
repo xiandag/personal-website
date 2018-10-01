@@ -1,0 +1,37 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ .Title }}{{ if not .IsHome }} — {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}">
+    <meta name="author" content="Xianda Guo">
+
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="/style/normalize.css">
+    <link rel="stylesheet" href="/style/main.css">
+    {{- if .Params.includes_code }}
+    <link rel="stylesheet" href="/style/highlight.css">
+    {{- end }}
+  </head>
+
+  <body>
+
+    <header>
+      <nav class="navbar">
+        <div class="container">
+          <ul class="navbar-list">
+            <li class="navbar-item"><a class="navbar-link{{ if eq .URL "/" }} active{{ end }}" href="/">Home</a></li>
+            <li class="navbar-item"><a class="navbar-link{{ if eq .URL "/project/" }} active{{ end }}" href="/project/">Project</a></li>
+            <li class="navbar-item"><a class="navbar-link{{ if eq .URL "/about/" }} active{{ end }}" href="/about/">About</a></li>
+            
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>

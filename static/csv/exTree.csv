@@ -1,0 +1,1791 @@
+parent,name
+null,extinct species
+extinct species,plantae
+extinct species,animalia
+plantae,tracheophyta
+animalia,arthropoda
+animalia,mollusca
+animalia,chordata
+plantae,bryophyta
+animalia,nemertina
+animalia,annelida
+plantae,marchantiophyta
+animalia,platyhelminthes
+plantae,rhodophyta
+tracheophyta,magnoliopsida
+arthropoda,insecta
+mollusca,gastropoda
+chordata,actinopterygii
+chordata,aves
+tracheophyta,polypodiopsida
+arthropoda,maxillopoda
+mollusca,bivalvia
+chordata,mammalia
+chordata,reptilia
+chordata,amphibia
+arthropoda,malacostraca
+tracheophyta,liliopsida
+arthropoda,arachnida
+arthropoda,diplopoda
+chordata,cephalaspidomorphi
+bryophyta,bryopsida
+nemertina,enopla
+annelida,clitellata
+arthropoda,ostracoda
+marchantiophyta,jungermanniopsida
+platyhelminthes,turbellaria
+rhodophyta,florideophyceae
+magnoliopsida,rosales
+magnoliopsida,malpighiales
+insecta,ephemeroptera
+gastropoda,stylommatophora
+magnoliopsida,caryophyllales
+actinopterygii,acipenseriformes
+aves,passeriformes
+polypodiopsida,polypodiales
+aves,strigiformes
+maxillopoda,cyclopoida
+insecta,lepidoptera
+bivalvia,unionoida
+actinopterygii,cypriniformes
+mammalia,cetartiodactyla
+aves,columbiformes
+reptilia,squamata
+insecta,plecoptera
+aves,anseriformes
+aves,psittaciformes
+gastropoda,architaenioglossa
+gastropoda,hygrophila
+aves,gruiformes
+actinopterygii,cyprinodontiformes
+magnoliopsida,gentianales
+magnoliopsida,asterales
+magnoliopsida,fabales
+amphibia,anura
+gastropoda,sorbeoconcha
+magnoliopsida,violales
+magnoliopsida,cucurbitales
+gastropoda,littorinimorpha
+aves,accipitriformes
+mammalia,diprotodontia
+mammalia,rodentia
+aves,procellariiformes
+magnoliopsida,malvales
+malacostraca,decapoda
+magnoliopsida,myrtales
+insecta,diptera
+aves,falconiformes
+liliopsida,poales
+arachnida,opiliones
+mammalia,peramelemorphia
+reptilia,testudines
+aves,caprimulgiformes
+magnoliopsida,ebenales
+insecta,hemiptera
+magnoliopsida,campanulales
+aves,charadriiformes
+aves,piciformes
+gastropoda,patellogastropoda
+insecta,orthoptera
+actinopterygii,salmoniformes
+actinopterygii,scorpaeniformes
+aves,galliformes
+aves,cuculiformes
+mammalia,didelphimorphia
+mammalia,carnivora
+actinopterygii,perciformes
+magnoliopsida,sapindales
+magnoliopsida,scrophulariales
+mammalia,perissodactyla
+arachnida,holothyroidae
+liliopsida,liliales
+aves,struthioniformes
+insecta,coleoptera
+diplopoda,spirobolida
+cephalaspidomorphi,petromyzontiformes
+liliopsida,orchidales
+bryopsida,hypnales
+actinopterygii,gasterosteiformes
+enopla,hoplonemertea
+magnoliopsida,lamiales
+magnoliopsida,laurales
+magnoliopsida,theales
+mammalia,sirenia
+insecta,trichoptera
+clitellata,megadrilaceae
+amphibia,caudata
+magnoliopsida,celastrales
+aves,pelecaniformes
+insecta,dermaptera
+magnoliopsida,capparales
+ostracoda,podocopida
+insecta,blattodea
+insecta,odonata
+magnoliopsida,rhamnales
+mammalia,eulipotyphla
+actinopterygii,siluriformes
+diplopoda,polydesmida
+mammalia,primates
+aves,suliformes
+mammalia,chiroptera
+arachnida,araneae
+aves,podicipediformes
+mammalia,lagomorpha
+actinopterygii,osmeriformes
+insecta,phasmida
+jungermanniopsida,porellales
+turbellaria,tricladida
+magnoliopsida,apiales
+magnoliopsida,santalales
+magnoliopsida,proteales
+malacostraca,amphipoda
+mammalia,dasyuromorphia
+maxillopoda,calanoida
+aves,bucerotiformes
+magnoliopsida,dipsacales
+florideophyceae,ceramiales
+magnoliopsida,oxalidales
+rosales,rosaceae
+malpighiales,euphorbiaceae
+ephemeroptera,acanthametropodidae
+stylommatophora,achatinellidae
+caryophyllales,amaranthaceae
+acipenseriformes,acipenseridae
+passeriformes,acrocephalidae
+polypodiales,pteridaceae
+stylommatophora,helicarionidae
+strigiformes,strigidae
+cyclopoida,cyclopidae
+lepidoptera,noctuidae
+passeriformes,fringillidae
+unionoida,unionidae
+cypriniformes,cyprinidae
+cetartiodactyla,bovidae
+columbiformes,columbidae
+squamata,scincidae
+plecoptera,chloroperlidae
+anseriformes,anatidae
+stylommatophora,amastridae
+psittaciformes,psittacidae
+architaenioglossa,neocyclotidae
+hygrophila,planorbidae
+passeriformes,meliphagidae
+gruiformes,rallidae
+cyprinodontiformes,cyprinodontidae
+cyprinodontiformes,poeciliidae
+passeriformes,sturnidae
+gentianales,rubiaceae
+lepidoptera,argyresthiidae
+asterales,asteraceae
+fabales,fabaceae
+anura,bufonidae
+sorbeoconcha,pleuroceridae
+violales,passifloraceae
+cucurbitales,begoniaceae
+littorinimorpha,hydrobiidae
+accipitriformes,accipitridae
+diprotodontia,potoroidae
+squamata,bolyeridae
+rodentia,echimyidae
+procellariiformes,procellariidae
+malvales,malvaceae
+stylommatophora,euconulidae
+decapoda,cambaridae
+stylommatophora,vertiginidae
+myrtales,myrtaceae
+diptera,dolichopodidae
+falconiformes,falconidae
+violales,flacourtiaceae
+poales,poaceae
+opiliones,podoctidae
+peramelemorphia,chaeropodidae
+passeriformes,mohoidae
+unionoida,iridinidae
+cyprinodontiformes,goodeidae
+cypriniformes,catostomidae
+testudines,testudinidae
+stylommatophora,subulinidae
+caprimulgiformes,trochilidae
+ebenales,sapotaceae
+hemiptera,pseudococcidae
+squamata,dipsadidae
+campanulales,campanulaceae
+charadriiformes,scolopacidae
+piciformes,picidae
+lepidoptera,coleophoridae
+patellogastropoda,nacellidae
+rodentia,muridae
+orthoptera,acrididae
+squamata,teiidae
+salmoniformes,salmonidae
+scorpaeniformes,cottidae
+galliformes,phasianidae
+cuculiformes,cuculidae
+anura,craugastoridae
+didelphimorphia,didelphidae
+carnivora,eupleridae
+perciformes,cichlidae
+sapindales,sapindaceae
+architaenioglossa,cyclophoridae
+squamata,iguanidae
+poales,cyperaceae
+scrophulariales,gesneriaceae
+lepidoptera,lycaenidae
+perissodactyla,rhinocerotidae
+holothyroidae,holothyridae
+liliales,dracaenaceae
+struthioniformes,casuariidae
+diptera,drosophilidae
+coleoptera,curculionidae
+polypodiales,dryopteridaceae
+carnivora,canidae
+lepidoptera,nepticulidae
+perissodactyla,equidae
+perciformes,percidae
+spirobolida,pachybolidae
+petromyzontiformes,petromyzontidae
+orchidales,orchidaceae
+scrophulariales,scrophulariaceae
+hypnales,brachytheciaceae
+passeriformes,ploceidae
+cyprinodontiformes,fundulidae
+hygrophila,lymnaeidae
+sapindales,rutaceae
+gasterosteiformes,gasterosteidae
+lepidoptera,pyralidae
+rodentia,capromyidae
+hoplonemertea,prosorhochmidae
+passeriformes,acanthizidae
+stylommatophora,streptaxidae
+charadriiformes,haematopodidae
+stylommatophora,charopidae
+littorinimorpha,cochliopidae
+stylommatophora,hygromiidae
+lamiales,boraginaceae
+laurales,hernandiaceae
+passeriformes,callaeidae
+cetartiodactyla,hippopotamidae
+stylommatophora,endodontidae
+opiliones,phalangodidae
+theales,dipterocarpaceae
+squamata,diplodactylidae
+sirenia,dugongidae
+trichoptera,hydropsychidae
+coleoptera,dytiscidae
+megadrilaceae,megascolecidae
+caudata,salamandridae
+celastrales,aquifoliaceae
+pelecaniformes,ardeidae
+rodentia,cricetidae
+dermaptera,labiduridae
+diprotodontia,macropodidae
+rodentia,chinchillidae
+squamata,tropiduridae
+stylommatophora,lauriidae
+capparales,brassicaceae
+stylommatophora,orthalicidae
+lepidoptera,zygaenidae
+lepidoptera,nymphalidae
+rosales,chrysobalanaceae
+podocopida,cyprididae
+anura,ranidae
+littorinimorpha,littorinidae
+gentianales,loganiaceae
+patellogastropoda,lottidae
+stylommatophora,pupillidae
+decapoda,palaemonidae
+peramelemorphia,thylacomyidae
+blattodea,blattellidae
+coleoptera,carabidae
+odonata,coenagrionidae
+stylommatophora,strophocheilidae
+opiliones,zalmoxidae
+passeriformes,turdidae
+passeriformes,monarchidae
+podocopida,candonidae
+anura,dicroglossidae
+orthoptera,tettigoniidae
+hypnales,neckeraceae
+carnivora,phocidae
+carnivora,mustelidae
+rhamnales,rhamnaceae
+eulipotyphla,nesophontidae
+psittaciformes,strigopidae
+siluriformes,ictaluridae
+gentianales,apocynaceae
+stylommatophora,oleacinidae
+littorinimorpha,assimineidae
+polydesmida,paradoxosomatidae
+stylommatophora,cerastidae
+decapoda,astacidae
+primates,palaeopropithecidae
+carnivora,felidae
+stylommatophora,partulidae
+testudines,pelomedusidae
+ephemeroptera,ephemeridae
+peramelemorphia,peramelidae
+suliformes,phalacrocoracidae
+squamata,gekkonidae
+anura,phyllomedusidae
+hygrophila,physidae
+charadriiformes,alcidae
+passeriformes,passerellidae
+chiroptera,vespertilionidae
+siluriformes,schilbeidae
+architaenioglossa,diplommatinidae
+araneae,sparassidae
+caudata,plethodontidae
+stylommatophora,camaenidae
+podicipediformes,podicipedidae
+passeriformes,locustellidae
+lagomorpha,prolagidae
+osmeriformes,retropinnidae
+phasmida,diapheromeridae
+anura,rhacophoridae
+chiroptera,pteropodidae
+passeriformes,tyrannidae
+passeriformes,icteridae
+porellales,radulaceae
+anura,myobatrachidae
+trichoptera,rhyacophilidae
+tricladida,dugesiidae
+cetartiodactyla,cervidae
+apiales,apiaceae
+santalales,santalaceae
+caryophyllales,caryophyllaceae
+lepidoptera,geometridae
+cucurbitales,cucurbitaceae
+eulipotyphla,solenodontidae
+spirobolida,spiroboleliidae
+lamiales,verbenaceae
+proteales,proteaceae
+diptera,tabanidae
+amphipoda,crangonyctidae
+cetartiodactyla,suidae
+decapoda,atyidae
+squamata,gerrhosauridae
+pelecaniformes,threskiornithidae
+dasyuromorphia,thylacinidae
+lepidoptera,tischeriidae
+passeriformes,acanthisittidae
+trichoptera,leptoceridae
+santalales,loranthaceae
+littorinimorpha,pomatiidae
+calanoida,diaptomidae
+passeriformes,oriolidae
+squamata,typhlopidae
+bucerotiformes,upupidae
+dipsacales,valerianaceae
+ceramiales,delesseriaceae
+violales,violaceae
+stylommatophora,pristilomatidae
+stylommatophora,ariophantidae
+oxalidales,cunoniaceae
+myrtales,thymelaeaceae
+primates,pitheciidae
+carnivora,otariidae
+stylommatophora,zonitidae
+passeriformes,zosteropidae
+rosaceae,acaena
+euphorbiaceae,acalypha
+acanthametropodidae,acanthametropus
+achatinellidae,achatinella
+amaranthaceae,achyranthes
+acipenseridae,acipenser
+acrocephalidae,acrocephalus
+pteridaceae,adiantum
+helicarionidae,advena
+strigidae,aegolius
+cyclopidae,afrocyclops
+noctuidae,agrotis
+fringillidae,akialoa
+unionidae,alasmidonta
+cyprinidae,alburnus
+bovidae,alcelaphus
+columbidae,alectroenas
+scincidae,alinea
+chloroperlidae,alloperla
+columbidae,alopecoenas
+anatidae,alopochen
+amastridae,amastra
+psittacidae,amazona
+neocyclotidae,amphicyclotulus
+planorbidae,amphigyra
+cyprinidae,anabarilius
+anatidae,anas
+meliphagidae,anthornis
+rallidae,aphanapteryx
+cyprinodontidae,aphanius
+poeciliidae,aplocheilichthys
+sturnidae,aplonis
+psittacidae,ara
+rubiaceae,argocoffeopsis
+argyresthiidae,argyresthia
+asteraceae,argyroxiphium
+fabaceae,astragalus
+bufonidae,atelopus
+pleuroceridae,athearnia
+rallidae,atlantisia
+achatinellidae,auriculella
+cyprinidae,barbus
+passifloraceae,basananthe
+begoniaceae,begonia
+hydrobiidae,belgrandiella
+accipitridae,bermuteo
+potoroidae,bettongia
+amaranthaceae,blutaparon
+bolyeridae,bolyeria
+echimyidae,boromys
+bovidae,bos
+echimyidae,brotomys
+procellariidae,bulweria
+hydrobiidae,bythinella
+malvaceae,byttneria
+rallidae,cabalus
+euconulidae,caldwellia
+columbidae,caloenas
+potoroidae,caloprymnus
+cambaridae,cambarellus
+vertiginidae,campolaemus
+myrtaceae,campomanesia
+dolichopodidae,campsicnemus
+anatidae,camptorhynchus
+falconidae,caracara
+amastridae,carelia
+fringillidae,carpodacus
+flacourtiaceae,casearia
+poaceae,cenchrus
+asteraceae,centaurea
+podoctidae,centrobunus
+chaeropodidae,chaeropus
+mohoidae,chaetoptila
+iridinidae,chambardia
+goodeidae,characodon
+catostomidae,chasmistes
+testudinidae,chelonoidis
+anatidae,chenonetta
+subulinidae,chilonopsis
+scincidae,chioninia
+fringillidae,chloridops
+trochilidae,chlorostilbon
+cyprinidae,chondrostoma
+sapotaceae,chrysophyllum
+fringillidae,ciridops
+hydrobiidae,clappia
+pseudococcidae,clavicoccus
+dipsadidae,clelia
+campanulaceae,clermontia
+euphorbiaceae,cnidoscolus
+scolopacidae,coenocorypha
+picidae,colaptes
+coleophoridae,coleophora
+nacellidae,collisella
+helicarionidae,colparion
+columbidae,columba
+asteraceae,commidendrum
+muridae,conilurus
+acrididae,conozoa
+teiidae,contomastix
+psittacidae,conuropsis
+scincidae,copeoglossum
+salmonidae,coregonus
+muridae,coryphomys
+cottidae,cottus
+phasianidae,coturnix
+cuculidae,coua
+craugastoridae,craugastor
+fabaceae,crudia
+didelphidae,cryptonanus
+eupleridae,cryptoprocta
+cichlidae,ctenochromis
+euconulidae,ctenoglypta
+sapindaceae,cupaniopsis
+campanulaceae,cyanea
+psittacidae,cyanoramphus
+cyclophoridae,cyclophorus
+cyclophoridae,cyclosurus
+iguanidae,cyclura
+testudinidae,cylindraspis
+fabaceae,cynometra
+cyperaceae,cyperus
+cyprinodontidae,cyprinodon
+cyprinidae,cyprinus
+gesneriaceae,cyrtandra
+asteraceae,delilia
+campanulaceae,delissea
+lycaenidae,deloneura
+rallidae,diaphorapteryx
+helicarionidae,diastole
+rhinocerotidae,diceros
+holothyridae,dicrogonatus
+dracaenaceae,dracaena
+fringillidae,drepanis
+casuariidae,dromaius
+drosophilidae,drosophila
+rallidae,dryolimnas
+curculionidae,dryophthorus
+dryopteridaceae,dryopteris
+euconulidae,dupontia
+canidae,dusicyon
+fringillidae,dysmorodrepanis
+psittacidae,eclectus
+nepticulidae,ectodemia
+columbidae,ectopistes
+pleuroceridae,elimia
+scincidae,emoia
+cyprinodontidae,empetrichthys
+unionidae,epioblasma
+equidae,equus
+helicarionidae,erepta
+dipsadidae,erythrolamprus
+rallidae,erythromachus
+percidae,etheostoma
+pachybolidae,eucarlia
+petromyzontidae,eudontomyzon
+orchidaceae,eulophia
+euphorbiaceae,euphorbia
+scrophulariaceae,euphrasia
+cyprinidae,evarra
+falconidae,falco
+asteraceae,fitchia
+brachytheciaceae,flabellidium
+hydrobiidae,fluvidona
+ploceidae,foudia
+sturnidae,fregilupus
+rallidae,fulica
+fundulidae,fundulus
+lymnaeidae,galba
+rutaceae,galipea
+rallidae,gallinula
+poeciliidae,gambusia
+gasterosteidae,gasterosteus
+vertiginidae,gastrocopta
+bovidae,gazella
+pyralidae,genophantis
+capromyidae,geocapromys
+prosorhochmidae,geonemertes
+unionidae,germainaia
+acanthizidae,gerygone
+streptaxidae,gibbus
+cyprinidae,gila
+lycaenidae,glaucopsyche
+myrtaceae,gomidesia
+streptaxidae,gonidomus
+streptaxidae,gonospira
+hydrobiidae,graecoanatolica
+rubiaceae,guettarda
+streptaxidae,gulella
+pleuroceridae,gyrotoma
+orchidaceae,habenaria
+haematopodidae,haematopus
+helicarionidae,harmogenanina
+charopidae,helenoconcha
+charopidae,helenodiscus
+cochliopidae,heleobia
+hygromiidae,helicopsis
+noctuidae,helicoverpa
+boraginaceae,heliotropium
+fringillidae,hemignathus
+hernandiaceae,hernandia
+callaeidae,heteralocha
+echimyidae,heteropsomys
+capromyidae,hexolobodon
+malvaceae,hibiscadelphus
+fringillidae,himatione
+hippopotamidae,hippopotamus
+bovidae,hippotragus
+endodontidae,hirasea
+phalangodidae,hirstienus
+dipterocarpaceae,hopea
+diplodactylidae,hoplodactylus
+acipenseridae,huso
+hydrobiidae,hydrobia
+dugongidae,hydrodamalis
+hydropsychidae,hydropsyche
+dytiscidae,hygrotus
+noctuidae,hypena
+megascolecidae,hypolimnus
+rallidae,hypotaenidia
+salamandridae,hypselotriton
+aquifoliaceae,ilex
+neocyclotidae,incerticyclus
+bufonidae,incilius
+hydrobiidae,islamia
+capromyidae,isolobodon
+ardeidae,ixobrychus
+cricetidae,juscelinomys
+bovidae,kobus
+malvaceae,kokia
+labiduridae,labidura
+macropodidae,lagorchestes
+chinchillidae,lagostomus
+achatinellidae,lamellidea
+unionidae,lampsilis
+tropiduridae,leiocephalus
+scincidae,leiolopisma
+hydrobiidae,leiorhagium
+lauriidae,leiostyla
+brassicaceae,lepidium
+lycaenidae,lepidochrysops
+cyprinidae,lepidomeda
+muridae,leporillus
+pleuroceridae,leptoxis
+orthalicidae,leucocharis
+zygaenidae,levuana
+charopidae,libera
+nymphalidae,libythea
+chrysobalanaceae,licania
+cyprididae,liocypris
+ranidae,lithobates
+littorinidae,littoraria
+hydrobiidae,littoridina
+loganiaceae,logania
+psittacidae,lophopsittacus
+lottidae,lottia
+fringillidae,loxops
+pupillidae,lyropupa
+palaemonidae,macrobrachium
+macropodidae,macropus
+thylacomyidae,macrotis
+sapotaceae,madhuca
+blattellidae,margatteoidea
+hydrobiidae,marstonia
+strigidae,mascarenotus
+psittacidae,mascarinus
+charopidae,mautodontha
+carabidae,mecodema
+unionidae,medionidus
+dytiscidae,megadytes
+coenagrionidae,megalagrion
+strophocheilidae,megalobulimus
+cricetidae,megalomys
+cricetidae,megaoryzomys
+acrididae,melanoplus
+rutaceae,melicope
+muridae,melomys
+hydrobiidae,mercuria
+anatidae,mergus
+zalmoxidae,metazalmoxis
+columbidae,microgoura
+cyprinidae,mirogrex
+mohoidae,moho
+catostomidae,moxostoma
+rallidae,mundia
+turdidae,myadestes
+monarchidae,myiagra
+boraginaceae,myosotis
+myrtaceae,myrcia
+candonidae,namibcypris
+helicarionidae,nancibella
+cuculidae,nannococcyx
+dicroglossidae,nannophrys
+sturnidae,necropsar
+psittacidae,necropsittacus
+tettigoniidae,neduba
+neckeraceae,neomacounia
+phocidae,neomonachus
+planorbidae,neoplanorbis
+cricetidae,neotoma
+mustelidae,neovison
+acrocephalidae,nesillas
+rhamnaceae,nesiota
+columbidae,nesoenas
+nesophontidae,nesophontes
+pupillidae,nesopupa
+cricetidae,nesoryzomys
+strigopidae,nestor
+achatinellidae,newcombia
+cricetidae,noronhomys
+muridae,notomys
+cyprinidae,notropis
+ictaluridae,noturus
+ardeidae,nyctanassa
+ardeidae,nycticorax
+apocynaceae,ochrosia
+orchidaceae,oeceoclades
+pyralidae,oeobia
+hydrobiidae,ohridohauffenia
+rubiaceae,oldenlandia
+oleacinidae,oleacina
+cricetidae,oligoryzomys
+assimineidae,omphalotropis
+salmonidae,oncorhynchus
+macropodidae,onychogalea
+curculionidae,oodemas
+fabaceae,ormosia
+paradoxosomatidae,orthomorpha
+cricetidae,oryzomys
+sapindaceae,otophora
+bovidae,ourebia
+cerastidae,pachnodus
+euconulidae,pachystyla
+astacidae,pacifastacus
+palaeopropithecidae,palaeopropithecus
+poeciliidae,pantanodon
+felidae,panthera
+helicarionidae,panulena
+fringillidae,paroreomyza
+partulidae,partula
+achatinellidae,partulina
+rubiaceae,pausinystalia
+pelomedusidae,pelusios
+cricetidae,pennatomys
+ephemeridae,pentagenia
+peramelidae,perameles
+achatinellidae,perdicella
+podoctidae,peromona
+cricetidae,peromyscus
+columbidae,pezophaps
+phalacrocoracidae,phalacrocorax
+gekkonidae,phelsuma
+teiidae,pholidoscelis
+phyllomedusidae,phrynomedusa
+pseudococcidae,phyllococcus
+physidae,physella
+alcidae,pinguinus
+passerellidae,pipilo
+vespertilionidae,pipistrellus
+orthalicidae,placostylus
+capromyidae,plagiodontia
+planorbidae,planorbella
+schilbeidae,platytropius
+diplommatinidae,plectostoma
+sparassidae,pleorotus
+plethodontidae,plethodon
+unionidae,pleurobema
+camaenidae,pleurodonte
+asteraceae,pluchea
+podicipedidae,podiceps
+podicipedidae,podilymbus
+cyprinidae,pogonichthys
+monarchidae,pomarea
+locustellidae,poodytes
+rallidae,porphyrio
+hydrobiidae,posticobia
+potoroidae,potorous
+sapotaceae,pouteria
+sapotaceae,pradosia
+poeciliidae,priapella
+cambaridae,procambarus
+prolagidae,prolagus
+scolopacidae,prosobonia
+retropinnidae,prototroctes
+psittacidae,psephotellus
+hydrobiidae,pseudamnicola
+diapheromeridae,pseudobactricia
+hygromiidae,pseudocampylaea
+endodontidae,pseudohelenoconcha
+muridae,pseudomys
+rhacophoridae,pseudophilautus
+cyprinidae,pseudophoxinus
+asteraceae,psiadia
+myrtaceae,psidium
+psittacidae,psittacara
+psittacidae,psittacula
+procellariidae,pterodroma
+pteropodidae,pteropus
+columbidae,ptilinopus
+cichlidae,ptychochromis
+pupillidae,pupilla
+hydrobiidae,pyrgulopsis
+tyrannidae,pyrocephalus
+helicarionidae,quintalia
+icteridae,quiscalus
+radulaceae,radula
+columbidae,raphus
+muridae,rattus
+apocynaceae,rauvolfia
+cerastidae,rhachis
+cerastidae,rhachistia
+dytiscidae,rhantus
+myobatrachidae,rheobatrachus
+cyprinidae,rhinichthys
+fringillidae,rhodacanthis
+rhyacophilidae,rhyacophila
+curculionidae,rhyncogonus
+dugesiidae,romankenkius
+cyprinidae,romanogobio
+cervidae,rucervus
+flacourtiaceae,ryania
+salmonidae,salmo
+salmonidae,salvelinus
+partulidae,samoana
+apiaceae,sanicula
+santalaceae,santalum
+strigidae,sceloglaux
+scincidae,scelotes
+caryophyllaceae,schiedea
+geometridae,scotorythra
+dipterocarpaceae,shorea
+cucurbitaceae,sicyos
+dytiscidae,siettitia
+charopidae,sinployea
+podoctidae,sitalcicus
+solenodontidae,solenodon
+hydrobiidae,somatogyrus
+spiroboleliidae,spirobolellus
+poaceae,sporobolus
+verbenaceae,stachytarpheta
+lymnaeidae,stagnicola
+caryophyllaceae,stellaria
+proteaceae,stenocarpus
+malvaceae,sterculia
+sparassidae,stipax
+tabanidae,stonemyia
+fabaceae,streblorrhiza
+crangonyctidae,stygobromus
+cyprinidae,stypodon
+suidae,sus
+atyidae,syncaris
+podicipedidae,tachybaptus
+scincidae,tachygyia
+charopidae,taipidon
+myobatrachidae,taudactylus
+cyprinidae,telestes
+gerrhosauridae,tetradactylus
+asteraceae,tetramolopium
+endodontidae,thaumatodon
+sparassidae,thomasettia
+threskiornithidae,threskiornis
+thylacinidae,thylacinus
+tischeriidae,tischeria
+megascolecidae,tokea
+orthalicidae,tomigerus
+achatinellidae,tornelasmias
+acanthisittidae,traversia
+leptoceridae,triaenodes
+rallidae,tribonyx
+curculionidae,trigonoscuta
+loranthaceae,trilepidea
+cichlidae,tristramella
+geometridae,tritocleis
+malvaceae,trochetiopsis
+hygromiidae,trochoidea
+pomatiidae,tropidophora
+diaptomidae,tropodiaptomus
+turdidae,turdus
+oriolidae,turnagra
+typhlopidae,typhlops
+unionidae,unio
+upupidae,upupa
+valerianaceae,valerianella
+delesseriaceae,vanvoorstia
+asteraceae,vernonia
+violaceae,viola
+fringillidae,viridonia
+pristilomatidae,vitrea
+ariophantidae,vitrinula
+cunoniaceae,weinmannia
+rubiaceae,wendlandia
+thymelaeaceae,wikstroemia
+myrtaceae,xanthostemon
+acanthisittidae,xenicus
+pitheciidae,xenothrix
+cichlidae,xystichromis
+otariidae,zalophus
+rallidae,zapornia
+zonitidae,zonites
+turdidae,zoothera
+zosteropidae,zosterops
+acaena,acaena exigua
+acalypha,acalypha dikuluwensis
+acalypha,acalypha rubrinervis
+acalypha,acalypha wilderi
+acanthametropus,acanthametropus pecatonica
+achatinella,achatinella abbreviata
+achatinella,achatinella apexfulva ssp. vittata
+achatinella,achatinella buddii
+achatinella,achatinella bulimoides ssp. rosea
+achatinella,achatinella caesia
+achatinella,achatinella casta
+achatinella,achatinella decora
+achatinella,achatinella dimorpha
+achatinella,achatinella elegans
+achatinella,achatinella juddii
+achatinella,achatinella juncea
+achatinella,achatinella lehuiensis
+achatinella,achatinella livida
+achatinella,achatinella papyracea
+achatinella,achatinella spaldingi
+achatinella,achatinella thaanumi
+achatinella,achatinella valida
+achyranthes,achyranthes atollensis
+acipenser,acipenser nudiventris aral sea stock
+acrocephalus,acrocephalus astrolabii
+acrocephalus,acrocephalus luscinius
+acrocephalus,acrocephalus musae
+acrocephalus,acrocephalus nijoi
+acrocephalus,acrocephalus yamashinae
+adiantum,adiantum lianxianense
+advena,advena campbelli
+aegolius,aegolius gradyi
+afrocyclops,afrocyclops pauliani
+agrotis,agrotis crinigera
+agrotis,agrotis fasciata
+agrotis,agrotis kerri
+agrotis,agrotis laysanensis
+agrotis,agrotis photophila
+agrotis,agrotis procellaris
+akialoa,akialoa ellisiana
+akialoa,akialoa lanaiensis
+akialoa,akialoa obscura
+akialoa,akialoa stejnegeri
+alasmidonta,alasmidonta mccordi
+alasmidonta,alasmidonta robusta
+alasmidonta,alasmidonta wrightiana
+alburnus,alburnus akili
+alburnus,alburnus nicaeensis
+alcelaphus,alcelaphus buselaphus ssp. buselaphus
+alectroenas,alectroenas nitidissimus
+alectroenas,alectroenas payandeei
+alinea,alinea luciae
+alloperla,alloperla roberti
+alopecoenas,alopecoenas ferrugineus
+alopecoenas,alopecoenas salamonis
+alopochen,alopochen kervazoi
+alopochen,alopochen mauritiana
+amastra,amastra albolabris
+amastra,amastra cornea
+amastra,amastra crassilabrum
+amastra,amastra elongata
+amastra,amastra forbesi
+amastra,amastra pellucida
+amastra,amastra porcus
+amastra,amastra reticulata
+amastra,amastra subrostrata
+amastra,amastra subsoror
+amastra,amastra tenuispira
+amastra,amastra umbilicata
+amazona,amazona martinicana
+amazona,amazona violacea
+amphicyclotulus,amphicyclotulus guadeloupensis
+amphigyra,amphigyra alabamensis
+anabarilius,anabarilius macrolepis
+anas,anas marecula
+anas,anas theodori
+anthornis,anthornis melanocephala
+aphanapteryx,aphanapteryx bonasia
+aphanius,aphanius splendens
+aplocheilichthys,aplocheilichthys sp. nov. 'naivasha'
+aplonis,aplonis corvina
+aplonis,aplonis fusca
+aplonis,aplonis mavornata
+aplonis,aplonis ulietensis
+ara,ara tricolor
+argocoffeopsis,argocoffeopsis lemblinii
+argyresthia,argyresthia castaneela
+argyroxiphium,argyroxiphium virescens
+astragalus,astragalus nitidiflorus
+atelopus,atelopus ignescens
+atelopus,atelopus longirostris
+atelopus,atelopus vogli
+athearnia,athearnia crassa
+atlantisia,atlantisia podarces
+auriculella,auriculella expansa
+auriculella,auriculella uniplicata
+barbus,barbus microbarbis
+basananthe,basananthe cupricola
+begonia,begonia eiromischa
+belgrandiella,belgrandiella intermedia
+bermuteo,bermuteo avivorus
+bettongia,bettongia anhydra
+bettongia,bettongia pusilla
+blutaparon,blutaparon rigidum
+bolyeria,bolyeria multocarinata
+boromys,boromys offella
+boromys,boromys torrei
+bos,bos primigenius
+brotomys,brotomys voratus
+bulweria,bulweria bifax
+bythinella,bythinella gibbosa
+bythinella,bythinella limnopsis
+bythinella,bythinella mauritanica
+bythinella,bythinella microcochlia
+bythinella,bythinella punica
+byttneria,byttneria ivorensis
+cabalus,cabalus modestus
+caldwellia,caldwellia philyrina
+caloenas,caloenas maculata
+caloprymnus,caloprymnus campestris
+cambarellus,cambarellus alvarezi
+cambarellus,cambarellus chihuahuae
+campolaemus,campolaemus perexilis
+campomanesia,campomanesia lundiana
+campsicnemus,campsicnemus mirabilis
+camptorhynchus,camptorhynchus labradorius
+caracara,caracara lutosa
+carelia,carelia anceophila
+carelia,carelia bicolor
+carelia,carelia cochlea
+carelia,carelia cumingiana
+carelia,carelia dolei
+carelia,carelia evelynae
+carelia,carelia glossema
+carelia,carelia hyattiana
+carelia,carelia kalalauensis
+carelia,carelia knudseni
+carelia,carelia lirata
+carelia,carelia lymani
+carelia,carelia mirabilis
+carelia,carelia necra
+carelia,carelia olivacea
+carelia,carelia paradoxa
+carelia,carelia periscelis
+carelia,carelia pilsbryi
+carelia,carelia sinclairi
+carelia,carelia tenebrosa
+carelia,carelia turricula
+carpodacus,carpodacus ferreorostris
+casearia,casearia quinduensis
+casearia,casearia tinifolia
+cenchrus,cenchrus agrimonioides var. laysanensis
+centaurea,centaurea pseudoleucolepis
+centrobunus,centrobunus braueri
+chaeropus,chaeropus ecaudatus
+chaetoptila,chaetoptila angustipluma
+chambardia,chambardia letourneuxi
+characodon,characodon garmani
+chasmistes,chasmistes muriei
+chelonoidis,chelonoidis abingdonii
+chelonoidis,chelonoidis niger
+chenonetta,chenonetta finschi
+chilonopsis,chilonopsis blofeldi
+chilonopsis,chilonopsis exulatus
+chilonopsis,chilonopsis helena
+chilonopsis,chilonopsis melanoides
+chilonopsis,chilonopsis nonpareil
+chilonopsis,chilonopsis subplicatus
+chilonopsis,chilonopsis subtruncatus
+chilonopsis,chilonopsis turtoni
+chioninia,chioninia coctei
+chloridops,chloridops kona
+chlorostilbon,chlorostilbon bracei
+chlorostilbon,chlorostilbon elegans
+chondrostoma,chondrostoma scodrense
+chrysophyllum,chrysophyllum januariense
+ciridops,ciridops anna
+clappia,clappia cahabensis
+clappia,clappia umbilicata
+clavicoccus,clavicoccus erinaceus
+clelia,clelia errabunda
+clermontia,clermontia multiflora
+cnidoscolus,cnidoscolus fragrans
+coenocorypha,coenocorypha barrierensis
+coenocorypha,coenocorypha iredalei
+colaptes,colaptes oceanicus
+coleophora,coleophora leucochrysella
+collisella,collisella edmitchelli
+colparion,colparion madgei
+columba,columba jouyi
+columba,columba thiriouxi
+columba,columba versicolor
+commidendrum,commidendrum gummiferum
+conilurus,conilurus albipes
+conilurus,conilurus capricornensis
+conozoa,conozoa hyalina
+contomastix,contomastix charrua
+conuropsis,conuropsis carolinensis
+copeoglossum,copeoglossum redondae
+coregonus,coregonus alpenae
+coregonus,coregonus bezola
+coregonus,coregonus fera
+coregonus,coregonus gutturosus
+coregonus,coregonus hiemalis
+coregonus,coregonus johannae
+coregonus,coregonus nigripinnis
+coregonus,coregonus oxyrinchus
+coregonus,coregonus restrictus
+coryphomys,coryphomys buehleri
+cottus,cottus echinatus
+coturnix,coturnix novaezelandiae
+coua,coua delalandei
+craugastor,craugastor chrysozetetes
+craugastor,craugastor escoces
+crudia,crudia zeylanica
+cryptonanus,cryptonanus ignitus
+cryptoprocta,cryptoprocta spelea
+ctenochromis,ctenochromis pectoralis
+ctenoglypta,ctenoglypta newtoni
+cupaniopsis,cupaniopsis crassivalvis
+cyanea,cyanea arborea
+cyanea,cyanea comata
+cyanea,cyanea copelandii subsp. copelandii
+cyanea,cyanea cylindrocalyx
+cyanea,cyanea dolichopoda
+cyanea,cyanea eleeleensis
+cyanea,cyanea giffardii
+cyanea,cyanea linearifolia
+cyanea,cyanea mauiensis
+cyanea,cyanea minutiflora
+cyanea,cyanea parvifolia
+cyanea,cyanea pohaku
+cyanea,cyanea pycnocarpa
+cyanea,cyanea quercifolia
+cyanea,cyanea sessilifolia
+cyanea,cyanea superba ssp. regina
+cyanoramphus,cyanoramphus ulietanus
+cyanoramphus,cyanoramphus zealandicus
+cyclophorus,cyclophorus horridulum
+cyclosurus,cyclosurus mariei
+cyclura,cyclura onchiopsis
+cylindraspis,cylindraspis indica
+cylindraspis,cylindraspis inepta
+cylindraspis,cylindraspis peltastes
+cylindraspis,cylindraspis triserrata
+cylindraspis,cylindraspis vosmaeri
+cynometra,cynometra beddomei
+cyperus,cyperus rockii
+cyprinodon,cyprinodon arcuatus
+cyprinodon,cyprinodon ceciliae
+cyprinodon,cyprinodon inmemoriam
+cyprinodon,cyprinodon latifasciatus
+cyprinodon,cyprinodon spp.
+cyprinus,cyprinus yilongensis
+cyrtandra,cyrtandra olona
+delilia,delilia inelegans
+delissea,delissea niihauensis
+delissea,delissea subcordata
+delissea,delissea subcordata subsp. obtusifolia
+delissea,delissea subcordata subsp. subcordata
+delissea,delissea undulata
+deloneura,deloneura immaculata
+diaphorapteryx,diaphorapteryx hawkinsi
+diastole,diastole matafaoi
+diceros,diceros bicornis ssp. longipes
+dicrogonatus,dicrogonatus gardineri
+dracaena,dracaena umbraculifera
+drepanis,drepanis funerea
+drepanis,drepanis pacifica
+dromaius,dromaius baudinianus
+dromaius,dromaius minor
+drosophila,drosophila lanaiensis
+dryolimnas,dryolimnas augusti
+dryophthorus,dryophthorus distinguendus
+dryopteris,dryopteris ascensionis
+dupontia,dupontia proletaria
+dusicyon,dusicyon australis
+dusicyon,dusicyon avus
+dysmorodrepanis,dysmorodrepanis munroi
+eclectus,eclectus infectus
+ectodemia,ectodemia castaneae
+ectodemia,ectodemia phleophaga
+ectopistes,ectopistes migratorius
+elimia,elimia brevis
+elimia,elimia clausa
+elimia,elimia fusiformis
+elimia,elimia gibbera
+elimia,elimia hartmaniana
+elimia,elimia impressa
+elimia,elimia jonesi
+elimia,elimia lachryma
+elimia,elimia laeta
+elimia,elimia macglameriana
+elimia,elimia pilsbryi
+elimia,elimia pupaeformis
+elimia,elimia pygmaea
+elimia,elimia vanuxemiana
+emoia,emoia nativitatis
+empetrichthys,empetrichthys merriami
+epioblasma,epioblasma arcaeformis
+epioblasma,epioblasma biemarginata
+epioblasma,epioblasma flexuosa
+epioblasma,epioblasma florentina ssp. florentina
+epioblasma,epioblasma haysiana
+epioblasma,epioblasma lenior
+epioblasma,epioblasma lewisii
+epioblasma,epioblasma personata
+epioblasma,epioblasma propinqua
+epioblasma,epioblasma sampsonii
+epioblasma,epioblasma stewardsonii
+epioblasma,epioblasma torulosa ssp. gubernaculum
+epioblasma,epioblasma torulosa ssp. torulosa
+epioblasma,epioblasma turgidula
+equus,equus hemionus ssp. hemippus
+equus,equus quagga ssp. quagga
+erepta,erepta nevilli
+erythrolamprus,erythrolamprus perfuscus
+erythromachus,erythromachus leguati
+etheostoma,etheostoma sellare
+eucarlia,eucarlia alluaudi
+eudontomyzon,eudontomyzon sp. nov. 'migratory'
+eulophia,eulophia stenopetala
+euphorbia,euphorbia celastroides var. tomentella
+euphorbia,euphorbia remyi var. hanaleiensis
+euphrasia,euphrasia mendoncae
+evarra,evarra bustamantei
+evarra,evarra eigenmanni
+evarra,evarra tlahuacensis
+falco,falco duboisi
+fitchia,fitchia mangarevensis
+flabellidium,flabellidium spinosum
+fluvidona,fluvidona dulvertonensis
+foudia,foudia delloni
+fregilupus,fregilupus varius
+fulica,fulica newtonii
+fundulus,fundulus albolineatus
+galba,galba vancouverensis
+galipea,galipea ossana
+gallinula,gallinula nesiotis
+gambusia,gambusia amistadensis
+gambusia,gambusia georgei
+gasterosteus,gasterosteus crenobiontus
+gastrocopta,gastrocopta chichijimana
+gastrocopta,gastrocopta ogasawarana
+gazella,gazella bilkis
+gazella,gazella saudiya
+genophantis,genophantis leahi
+geocapromys,geocapromys columbianus
+geocapromys,geocapromys thoracatus
+geonemertes,geonemertes rodericana
+germainaia,germainaia geayi
+gerygone,gerygone insularis
+gibbus,gibbus lyonetianus
+gila,gila crassicauda
+glaucopsyche,glaucopsyche xerces
+gomidesia,gomidesia cambessedeana
+gonidomus,gonidomus newtoni
+gonospira,gonospira nevilli
+graecoanatolica,graecoanatolica macedonica
+guettarda,guettarda retusa
+gulella,gulella mayottensis
+gyrotoma,gyrotoma excisa
+gyrotoma,gyrotoma lewisii
+gyrotoma,gyrotoma pagoda
+gyrotoma,gyrotoma pumila
+gyrotoma,gyrotoma pyramidata
+gyrotoma,gyrotoma walkeri
+habenaria,habenaria petromedusa
+haematopus,haematopus meadewaldoi
+harmogenanina,harmogenanina linophora
+harmogenanina,harmogenanina subdetecta
+helenoconcha,helenoconcha leptalea
+helenoconcha,helenoconcha minutissima
+helenoconcha,helenoconcha polyodon
+helenoconcha,helenoconcha pseustes
+helenoconcha,helenoconcha sexdentata
+helenodiscus,helenodiscus bilamellata
+helenodiscus,helenodiscus vernoni
+heleobia,heleobia spinellii
+helicopsis,helicopsis paulhessei
+helicoverpa,helicoverpa confusa
+helicoverpa,helicoverpa minuta
+heliotropium,heliotropium pannifolium
+hemignathus,hemignathus lucidus
+hernandia,hernandia drakeana
+heteralocha,heteralocha acutirostris
+heteropsomys,heteropsomys insulans
+hexolobodon,hexolobodon phenax
+hibiscadelphus,hibiscadelphus bombycinus
+hibiscadelphus,hibiscadelphus crucibracteatus
+hibiscadelphus,hibiscadelphus wilderianus
+hibiscadelphus,hibiscadelphus woodii
+himatione,himatione fraithii
+hippopotamus,hippopotamus lemerlei
+hippopotamus,hippopotamus madagascariensis
+hippotragus,hippotragus leucophaeus
+hirasea,hirasea planulata
+hirstienus,hirstienus nanus
+hopea,hopea shingkeng
+hoplodactylus,hoplodactylus delcourti
+huso,huso huso adriatic sea stock
+hydrobia,hydrobia gracilis
+hydrodamalis,hydrodamalis gigas
+hydropsyche,hydropsyche tobiasi
+hygrotus,hygrotus artus
+hypena,hypena laysanensis
+hypena,hypena newelli
+hypena,hypena plagiota
+hypena,hypena senicula
+hypolimnus,hypolimnus pedderensis
+hypotaenidia,hypotaenidia dieffenbachii
+hypotaenidia,hypotaenidia pacifica
+hypotaenidia,hypotaenidia poeciloptera
+hypotaenidia,hypotaenidia wakensis
+hypselotriton,hypselotriton wolterstorffi
+ilex,ilex gardneriana
+ilex,ilex ternatiflora
+incerticyclus,incerticyclus cinereus
+incerticyclus,incerticyclus martinicensis
+incilius,incilius periglenes
+islamia,islamia ateni
+isolobodon,isolobodon montanus
+isolobodon,isolobodon portoricensis
+ixobrychus,ixobrychus novaezelandiae
+juscelinomys,juscelinomys candango
+kobus,kobus leche ssp. robertsi
+kokia,kokia lanceolata
+labidura,labidura herculeana
+lagorchestes,lagorchestes asomatus
+lagorchestes,lagorchestes leporides
+lagostomus,lagostomus crassus
+lamellidea,lamellidea monodonta
+lamellidea,lamellidea nakadai
+lampsilis,lampsilis binominata
+leiocephalus,leiocephalus cuneus
+leiocephalus,leiocephalus eremitus
+leiocephalus,leiocephalus herminieri
+leiolopisma,leiolopisma mauritiana
+leiorhagium,leiorhagium solemi
+leiostyla,leiostyla lamellosa
+lepidium,lepidium amissum
+lepidium,lepidium obtusatum
+lepidochrysops,lepidochrysops hypopolia
+lepidomeda,lepidomeda altivelis
+leporillus,leporillus apicalis
+leptoxis,leptoxis clipeata
+leptoxis,leptoxis compacta
+leptoxis,leptoxis foremanii
+leptoxis,leptoxis formosa
+leptoxis,leptoxis ligata
+leptoxis,leptoxis lirata
+leptoxis,leptoxis occultata
+leptoxis,leptoxis showalterii
+leptoxis,leptoxis torrefacta
+leptoxis,leptoxis vittata
+leucocharis,leucocharis loyaltiensis
+leucocharis,leucocharis porphyrocheila
+levuana,levuana irridescens
+libera,libera subcavernula
+libera,libera tumuloides
+libythea,libythea cinyras
+licania,licania caldasiana
+liocypris,liocypris grandis
+lithobates,lithobates fisheri
+littoraria,littoraria flammea
+littoridina,littoridina gaudichaudii
+logania,logania depressa
+lophopsittacus,lophopsittacus bensoni
+lophopsittacus,lophopsittacus mauritianus
+lottia,lottia alveus
+loxops,loxops wolstenholmei
+lyropupa,lyropupa perlonga
+macrobrachium,macrobrachium leptodactylus
+macropus,macropus greyi
+macrotis,macrotis leucura
+madhuca,madhuca insignis
+margatteoidea,margatteoidea amoena
+marstonia,marstonia olivacea
+mascarenotus,mascarenotus grucheti
+mascarenotus,mascarenotus murivorus
+mascarenotus,mascarenotus sauzieri
+mascarinus,mascarinus mascarin
+mautodontha,mautodontha acuticosta
+mautodontha,mautodontha consimilis
+mautodontha,mautodontha consobrina
+mautodontha,mautodontha maupiensis
+mautodontha,mautodontha parvidens
+mautodontha,mautodontha punctiperforata
+mautodontha,mautodontha saintjohni
+mautodontha,mautodontha subtilis
+mautodontha,mautodontha unilamellata
+mautodontha,mautodontha zebrina
+mecodema,mecodema punctellum
+medionidus,medionidus mcglameriae
+megadytes,megadytes ducalis
+megalagrion,megalagrion jugorum
+megalobulimus,megalobulimus cardosoi
+megalomys,megalomys desmarestii
+megalomys,megalomys luciae
+megaoryzomys,megaoryzomys curioi
+melanoplus,melanoplus spretus
+melicope,melicope cruciata
+melicope,melicope haleakalae
+melicope,melicope macropus
+melicope,melicope nealae
+melicope,melicope obovata
+melicope,melicope paniculata
+melomys,melomys rubicola
+mercuria,mercuria letourneuxiana
+mergus,mergus australis
+metazalmoxis,metazalmoxis ferruginea
+microgoura,microgoura meeki
+mirogrex,mirogrex hulensis
+moho,moho apicalis
+moho,moho bishopi
+moho,moho braccatus
+moho,moho nobilis
+moxostoma,moxostoma lacerum
+mundia,mundia elpenor
+myadestes,myadestes myadestinus
+myadestes,myadestes woahensis
+myiagra,myiagra freycineti
+myosotis,myosotis laingii
+myrcia,myrcia skeldingii
+namibcypris,namibcypris costata
+nancibella,nancibella quintalia
+nannococcyx,nannococcyx psix
+nannophrys,nannophrys guentheri
+necropsar,necropsar rodericanus
+necropsittacus,necropsittacus rodricanus
+neduba,neduba extincta
+neomacounia,neomacounia nitida
+neomonachus,neomonachus tropicalis
+neoplanorbis,neoplanorbis carinatus
+neoplanorbis,neoplanorbis smithi
+neoplanorbis,neoplanorbis tantillus
+neoplanorbis,neoplanorbis umbilicatus
+neotoma,neotoma bryanti ssp. anthonyi
+neotoma,neotoma bryanti ssp. bunkeri
+neotoma,neotoma bryanti ssp. martinensis
+neovison,neovison macrodon
+nesillas,nesillas aldabrana
+nesiota,nesiota elliptica
+nesoenas,nesoenas cicur
+nesoenas,nesoenas duboisi
+nesoenas,nesoenas rodericanus
+nesophontes,nesophontes edithae
+nesophontes,nesophontes hypomicrus
+nesophontes,nesophontes major
+nesophontes,nesophontes micrus
+nesophontes,nesophontes paramicrus
+nesophontes,nesophontes zamicrus
+nesopupa,nesopupa turtoni
+nesoryzomys,nesoryzomys darwini
+nesoryzomys,nesoryzomys indefessus
+nestor,nestor productus
+newcombia,newcombia philippiana
+noronhomys,noronhomys vespuccii
+notomys,notomys amplus
+notomys,notomys longicaudatus
+notomys,notomys macrotis
+notomys,notomys mordax
+notomys,notomys robustus
+notropis,notropis amecae
+notropis,notropis aulidion
+notropis,notropis orca
+notropis,notropis saladonis
+noturus,noturus trautmani
+nyctanassa,nyctanassa carcinocatactes
+nycticorax,nycticorax duboisi
+nycticorax,nycticorax mauritianus
+nycticorax,nycticorax megacephalus
+ochrosia,ochrosia brownii
+ochrosia,ochrosia fatuhivensis
+ochrosia,ochrosia tahitensis
+oeceoclades,oeceoclades seychellarum
+oeobia,oeobia sp. nov.
+ohridohauffenia,ohridohauffenia drimica
+oldenlandia,oldenlandia adscensionis
+oleacina,oleacina guadeloupensis
+oligoryzomys,oligoryzomys victus
+omphalotropis,omphalotropis plicosa
+oncorhynchus,oncorhynchus nerka columbia river: payette r
+oncorhynchus,oncorhynchus nerka columbia river: suttle lk/deschutes r
+oncorhynchus,oncorhynchus nerka columbia river: upper, headwater/arrow, whatsan lk
+oncorhynchus,oncorhynchus nerka columbia river: wallowa lk
+oncorhynchus,oncorhynchus nerka columbia river: yakima r
+onychogalea,onychogalea lunata
+oodemas,oodemas laysanensis
+ormosia,ormosia howii
+orthomorpha,orthomorpha crinita
+oryzomys,oryzomys antillarum
+oryzomys,oryzomys nelsoni
+otophora,otophora unilocularis
+ourebia,ourebia ourebi ssp. kenyae
+pachnodus,pachnodus curiosus
+pachnodus,pachnodus ladiguensis
+pachnodus,pachnodus velutinus
+pachystyla,pachystyla rufozonata
+pacifastacus,pacifastacus nigrescens
+palaeopropithecus,palaeopropithecus ingens
+pantanodon,pantanodon madagascariensis
+panthera,panthera tigris ssp. balica
+panthera,panthera tigris ssp. sondaica
+panthera,panthera tigris ssp. virgata
+panulena,panulena perrugosa
+paroreomyza,paroreomyza flammea
+partula,partula arguta
+partula,partula atilis
+partula,partula aurantia
+partula,partula auriculata
+partula,partula bilineata
+partula,partula callifera
+partula,partula candida
+partula,partula cedista
+partula,partula citrina
+partula,partula crassilabris
+partula,partula cuneata
+partula,partula cytherea
+partula,partula dolichostoma
+partula,partula dolorosa
+partula,partula eremita
+partula,partula formosa
+partula,partula garretti
+partula,partula imperforata
+partula,partula jackieburchi
+partula,partula labrusca
+partula,partula leptochila
+partula,partula levistriata
+partula,partula lugubris
+partula,partula lutea
+partula,partula navigatoria
+partula,partula planilabrum
+partula,partula producta
+partula,partula protracta
+partula,partula raiatensis
+partula,partula remota
+partula,partula sagitta
+partula,partula salifana
+partula,partula suturalis ssp. suturalis
+partula,partula taeniata ssp. taeniata
+partula,partula turgida
+partula,partula umbilicata
+partulina,partulina crassa
+partulina,partulina montagui
+pausinystalia,pausinystalia brachythyrsum
+pelusios,pelusios seychellensis
+pennatomys,pennatomys nivalis
+pentagenia,pentagenia robusta
+perameles,perameles eremiana
+perdicella,perdicella fulgurans
+perdicella,perdicella maniensis
+perdicella,perdicella zebra
+perdicella,perdicella zebrina
+peromona,peromona erinacea
+peromyscus,peromyscus pembertoni
+pezophaps,pezophaps solitaria
+phalacrocorax,phalacrocorax perspicillatus
+phelsuma,phelsuma gigas
+pholidoscelis,pholidoscelis cineraceus
+phrynomedusa,phrynomedusa fimbriata
+phyllococcus,phyllococcus oahuensis
+physella,physella microstriata
+pinguinus,pinguinus impennis
+pipilo,pipilo naufragus
+pipistrellus,pipistrellus murrayi
+placostylus,placostylus bivaricosus ssp. etheridgei
+placostylus,placostylus cuniculinsulae
+plagiodontia,plagiodontia ipnaeum
+planorbella,planorbella multivolvis
+platytropius,platytropius siamensis
+plectostoma,plectostoma sciaphilum
+pleorotus,pleorotus braueri
+plethodon,plethodon ainsworthi
+pleurobema,pleurobema altum
+pleurobema,pleurobema avellanum
+pleurobema,pleurobema bournianum
+pleurobema,pleurobema flavidulum
+pleurobema,pleurobema hagleri
+pleurobema,pleurobema johannis
+pleurobema,pleurobema murrayense
+pleurobema,pleurobema nucleopsis
+pleurobema,pleurobema perovatum
+pleurobema,pleurobema troschelianum
+pleurobema,pleurobema verum
+pleurodonte,pleurodonte desidens
+pluchea,pluchea glutinosa
+podiceps,podiceps andinus
+podilymbus,podilymbus gigas
+pogonichthys,pogonichthys ciscoides
+pomarea,pomarea fluxa
+pomarea,pomarea nukuhivae
+pomarea,pomarea pomarea
+poodytes,poodytes rufescens
+porphyrio,porphyrio albus
+porphyrio,porphyrio caerulescens
+porphyrio,porphyrio kukwiedei
+porphyrio,porphyrio mantelli
+porphyrio,porphyrio paepae
+posticobia,posticobia norfolkensis
+potorous,potorous platyops
+pouteria,pouteria stenophylla
+pradosia,pradosia argentea
+pradosia,pradosia glaziovii
+pradosia,pradosia mutisii
+priapella,priapella bonita
+procambarus,procambarus angustatus
+prolagus,prolagus sardus
+prosobonia,prosobonia cancellata
+prosobonia,prosobonia ellisi
+prosobonia,prosobonia leucoptera
+prototroctes,prototroctes oxyrhynchus
+psephotellus,psephotellus pulcherrimus
+pseudamnicola,pseudamnicola barratei
+pseudamnicola,pseudamnicola desertorum
+pseudamnicola,pseudamnicola doumeti
+pseudamnicola,pseudamnicola globulina
+pseudamnicola,pseudamnicola latasteana
+pseudamnicola,pseudamnicola oudrefica
+pseudamnicola,pseudamnicola ragia
+pseudamnicola,pseudamnicola singularis
+pseudobactricia,pseudobactricia ridleyi
+pseudocampylaea,pseudocampylaea loweii
+pseudohelenoconcha,pseudohelenoconcha spurca
+pseudomys,pseudomys auritus
+pseudomys,pseudomys glaucus
+pseudomys,pseudomys gouldii
+pseudophilautus,pseudophilautus adspersus
+pseudophilautus,pseudophilautus dimbullae
+pseudophilautus,pseudophilautus eximius
+pseudophilautus,pseudophilautus extirpo
+pseudophilautus,pseudophilautus halyi
+pseudophilautus,pseudophilautus hypomelas
+pseudophilautus,pseudophilautus leucorhinus
+pseudophilautus,pseudophilautus maia
+pseudophilautus,pseudophilautus malcolmsmithi
+pseudophilautus,pseudophilautus nanus
+pseudophilautus,pseudophilautus nasutus
+pseudophilautus,pseudophilautus oxyrhynchus
+pseudophilautus,pseudophilautus pardus
+pseudophilautus,pseudophilautus rugatus
+pseudophilautus,pseudophilautus stellatus
+pseudophilautus,pseudophilautus temporalis
+pseudophilautus,pseudophilautus variabilis
+pseudophilautus,pseudophilautus zal
+pseudophilautus,pseudophilautus zimmeri
+pseudophoxinus,pseudophoxinus handlirschi
+psiadia,psiadia schweinfurthii
+psidium,psidium dumetorum
+psittacara,psittacara labati
+psittacula,psittacula exsul
+psittacula,psittacula wardi
+pterodroma,pterodroma rupinarum
+pteropus,pteropus brunneus
+pteropus,pteropus pilosus
+pteropus,pteropus subniger
+pteropus,pteropus tokudae
+ptilinopus,ptilinopus mercierii
+ptychochromis,ptychochromis onilahy
+pupilla,pupilla obliquicosta
+pyrgulopsis,pyrgulopsis nevadensis
+pyrocephalus,pyrocephalus dubius
+quintalia,quintalia flosculus
+quintalia,quintalia stoddartii
+quiscalus,quiscalus palustris
+radula,radula visianica
+raphus,raphus cucullatus
+rattus,rattus macleari
+rattus,rattus nativitatis
+rauvolfia,rauvolfia nukuhivensis
+rhachis,rhachis comorensis
+rhachis,rhachis sanguineus
+rhachistia,rhachistia aldabrae
+rhantus,rhantus novacaledoniae
+rhantus,rhantus orbignyi
+rhantus,rhantus papuanus
+rheobatrachus,rheobatrachus silus
+rheobatrachus,rheobatrachus vitellinus
+rhinichthys,rhinichthys deaconi
+rhodacanthis,rhodacanthis flaviceps
+rhodacanthis,rhodacanthis palmeri
+rhyacophila,rhyacophila amabilis
+rhyncogonus,rhyncogonus bryani
+romankenkius,romankenkius pedderensis
+romanogobio,romanogobio antipai
+rucervus,rucervus schomburgki
+ryania,ryania speciosa var. mutisii
+salmo,salmo pallaryi
+salvelinus,salvelinus agassizii
+salvelinus,salvelinus neocomensis
+salvelinus,salvelinus profundus
+samoana,samoana inflata
+sanicula,sanicula kauaiensis
+santalum,santalum fernandezianum
+sceloglaux,sceloglaux albifacies
+scelotes,scelotes guentheri
+schiedea,schiedea amplexicaulis
+scotorythra,scotorythra megalophylla
+scotorythra,scotorythra nesiotes
+shorea,shorea cuspidata
+sicyos,sicyos villosus
+siettitia,siettitia balsetensis
+sinployea,sinployea canalis
+sinployea,sinployea decorticata
+sinployea,sinployea harveyensis
+sinployea,sinployea otareae
+sinployea,sinployea planospira
+sinployea,sinployea proxima
+sinployea,sinployea rudis
+sinployea,sinployea tenuicostata
+sinployea,sinployea youngi
+sitalcicus,sitalcicus gardineri
+solenodon,solenodon marcanoi
+somatogyrus,somatogyrus alcoviensis
+somatogyrus,somatogyrus amnicoloides
+somatogyrus,somatogyrus crassilabris
+somatogyrus,somatogyrus wheeleri
+spirobolellus,spirobolellus praslinus
+sporobolus,sporobolus durus
+stachytarpheta,stachytarpheta fallax
+stagnicola,stagnicola pilsbryi
+stellaria,stellaria elatinoides
+stenocarpus,stenocarpus dumbeensis
+sterculia,sterculia khasiana
+stipax,stipax triangulifer
+stonemyia,stonemyia volutina
+streblorrhiza,streblorrhiza speciosa
+stygobromus,stygobromus lucifugus
+stypodon,stypodon signifer
+sus,sus bucculentus
+syncaris,syncaris pasadenae
+tachybaptus,tachybaptus rufolavatus
+tachygyia,tachygyia microlepis
+taipidon,taipidon anceyana
+taipidon,taipidon marquesana
+taipidon,taipidon octolamellata
+taudactylus,taudactylus diurnus
+telestes,telestes ukliva
+tetradactylus,tetradactylus eastwoodae
+tetramolopium,tetramolopium consanguineum subsp. consanguineum
+thaumatodon,thaumatodon multilamellata
+thomasettia,thomasettia seychellana
+threskiornis,threskiornis solitarius
+thylacinus,thylacinus cynocephalus
+tischeria,tischeria perplexa
+tokea,tokea orthostichon
+tomigerus,tomigerus gibberulus
+tomigerus,tomigerus turbinatus
+tornelasmias,tornelasmias capricorni
+traversia,traversia lyalli
+triaenodes,triaenodes phalacris
+triaenodes,triaenodes tridonata
+tribonyx,tribonyx hodgenorum
+trigonoscuta,trigonoscuta rossi
+trigonoscuta,trigonoscuta yorbalindae
+trilepidea,trilepidea adamsii
+tristramella,tristramella intermedia
+tristramella,tristramella magdelainae
+tristramella,tristramella sacra
+tritocleis,tritocleis microphylla
+trochetiopsis,trochetiopsis melanoxylon
+trochoidea,trochoidea picardi
+tropidophora,tropidophora desmazuresi
+tropidophora,tropidophora semilineata
+tropodiaptomus,tropodiaptomus ctenopus
+turdus,turdus ravidus
+turnagra,turnagra capensis
+turnagra,turnagra tanagra
+typhlops,typhlops cariei
+unio,unio cariei
+unio,unio madagascariensis
+unio,unio malgachensis
+upupa,upupa antaios
+valerianella,valerianella affinis
+vanvoorstia,vanvoorstia bennettiana
+vernonia,vernonia sechellensis
+viola,viola cryana
+viridonia,viridonia sagittirostris
+vitrea,vitrea storchi
+vitrinula,vitrinula chaunax
+vitrinula,vitrinula chichijimana
+vitrinula,vitrinula hahajimana
+weinmannia,weinmannia spiraeoides
+wendlandia,wendlandia angustifolia
+wikstroemia,wikstroemia hanalei
+wikstroemia,wikstroemia skottsbergiana
+xanthostemon,xanthostemon sebertii
+xenicus,xenicus longipes
+xenothrix,xenothrix mcgregori
+xystichromis,xystichromis bayoni
+zalophus,zalophus japonicus
+zapornia,zapornia astrictocarpus
+zapornia,zapornia monasa
+zapornia,zapornia nigra
+zapornia,zapornia palmeri
+zapornia,zapornia sandwichensis
+zonites,zonites santoriniensis
+zonites,zonites siphnicus
+zoothera,zoothera terrestris
+zosterops,zosterops conspicillatus
+zosterops,zosterops semiflavus
+zosterops,zosterops strenuus
