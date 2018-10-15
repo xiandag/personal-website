@@ -9,18 +9,24 @@
   This line removes any default padding and style. 
        You might only need one of these values set. 
   <style> body {padding: 0; margin: 0;} </style> -->
+    <style>
+        body { 
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center; 
+        }
+     </style>   
+
 
 </head>
-<body>
+<body background = "/img/water2.jpg">
      {{ partial "header.html" . }}
   
      {{.Content}}
-     <div class = "container">
+     <div class = "container" >
 
-         <h3 align="justify">A perfect metaphysical system should start with the positive method and end with the negative one...</h3>
-         <h3>One must speak very much before one keeps silent.</h3>
-         <h3 align="right">- <a href="https://en.wikipedia.org/wiki/Feng_Youlan">Feng Youlan</h3>
-
+         <h2 align="justify" style = "color: white; text-shadow: 2px 0 black, 0 2px black, 1px 0 black, 0 -1px black;"> Happiness in the process of ever-growing aliveness, whatever the furthest point is that fate permits one to reach, for living as fully as one can is so satisfactory that the concern for what one might or might not attain has little chance to develop. </h2>
+         <h3 align="right">- <a href="https://en.wikipedia.org/wiki/To_Have_or_to_Be%3F">Erich Fromm, To Have or to Be?</a></h3>
      </div>
 
 </body>
